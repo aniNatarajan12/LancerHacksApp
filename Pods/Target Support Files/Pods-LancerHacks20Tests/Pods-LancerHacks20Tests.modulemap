@@ -1,0 +1,6 @@
+framework module Pods_LancerHacks20Tests {
+  umbrella header "Pods-LancerHacks20Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

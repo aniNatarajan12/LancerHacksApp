@@ -1,0 +1,53 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "apple.arreferenceimage"
+    },
+    {
+      "filename" : "basketball.arreferenceimage"
+    },
+    {
+      "filename" : "books.arreferenceimage"
+    },
+    {
+      "filename" : "crown.arreferenceimage"
+    },
+    {
+      "filename" : "donut.arreferenceimage"
+    },
+    {
+      "filename" : "earth.arreferenceimage"
+    },
+    {
+      "filename" : "elephant.arreferenceimage"
+    },
+    {
+      "filename" : "fox.arreferenceimage"
+    },
+    {
+      "filename" : "glasses.arreferenceimage"
+    },
+    {
+      "filename" : "laptop.arreferenceimage"
+    },
+    {
+      "filename" : "mountain.arreferenceimage"
+    },
+    {
+      "filename" : "snowman.arreferenceimage"
+    },
+    {
+      "filename" : "treasure.arreferenceimage"
+    },
+    {
+      "filename" : "tree.arreferenceimage"
+    },
+    {
+      "filename" : "UFO.arreferenceimage"
+    }
+  ]
+}
